@@ -6,4 +6,4 @@ Welcome to the repository for Botao Jin's PSTAT 120A sessions. This repository c
 - **Study Guides**: Suggested practice problems from the textbook, complete with solutions, to help you prepare for exams and deepen your understanding.
 - **Additional Resource**: Supplementary references and materials to aid your further study and mastery of course content.
 
-- Feel free to explore, download, and make use of these resources to enhance your learning experience in PSTAT 120A.
+Feel free to explore, download, and use these resources to enhance your learning experience in PSTAT 120A.
